@@ -1,5 +1,7 @@
 # Therapist Match
 
+We want to match patients to a therapist based on their answers to behavioral questions.
+
 ## Run Locally
 To run make sure to install all the required packages:
 
